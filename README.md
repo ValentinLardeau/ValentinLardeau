@@ -16,9 +16,8 @@ I am proficient in various languages and frameworks such as Python, TensorFlow, 
 
 This repository contains projects and research I've worked on, showcasing my skills and expertise in AI. Here you will find:
 - Examples of machine learning and deep learning models
-- Natural language processing projects
+- Biologically inspired computing utilisation
 - Computer vision applications
-- Detailed data analyses with visualizations
 
 ## Contact
 
