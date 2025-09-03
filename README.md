@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository!
 
-👋 Hi! I'm Valentin, a French engineer passionate about Artificial Intelligence. Currently, I am completing a double degree at Heriot-Watt University, specializing in AI.
+👋 Hi! I'm Valentin, a French engineer passionate about Artificial Intelligence. Currently, I am working as a consultant for Wavestone, specializing in AI and its cybersecurity.
 
 ## About Me
 
